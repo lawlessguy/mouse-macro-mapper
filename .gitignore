@@ -1,0 +1,5 @@
+mappings.ini
+*.tmp
+tests/artifacts/
+# Local desktop captures are not part of the source repository.
+screenshots/
